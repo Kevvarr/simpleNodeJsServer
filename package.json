@@ -1,0 +1,13 @@
+{
+  "name": "nodejsdevops",
+  "version": "1.0.0",
+  "description": "Simple Server code to apply DevOps practices...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
